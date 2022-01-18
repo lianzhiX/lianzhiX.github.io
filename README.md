@@ -1,0 +1,2 @@
+# lianzhiX.github.io
+myblog
